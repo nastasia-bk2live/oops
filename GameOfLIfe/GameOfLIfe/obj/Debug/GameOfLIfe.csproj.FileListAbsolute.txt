@@ -1,0 +1,33 @@
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe.config
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.pdb
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form1.resources
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Properties.Resources.resources
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.exe
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.pdb
+C:\Users\Admin\source\repos\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form2.resources
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csprojAssemblyReference.cache
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form1.resources
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form2.resources
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Properties.Resources.resources
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.GenerateResource.cache
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.CoreCompileInputs.cache
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.exe
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.pdb
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe.config
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe
+C:\школа\оид курсовая\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.pdb
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe.config
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.pdb
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csprojAssemblyReference.cache
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form1.resources
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form2.resources
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Properties.Resources.resources
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.GenerateResource.cache
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.CoreCompileInputs.cache
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.exe
+C:\школа\курсовая\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.pdb
